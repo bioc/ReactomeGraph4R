@@ -1,6 +1,6 @@
 Package: ReactomeGraph4R
 Title: Interface for the Reactome Graph Database
-Version: 1.17.0
+Version: 1.17.1
 Authors@R: c(
     person("Chi-Lam", "Poon", role = c("aut", "cre"), 
             email = "clpoon807@gmail.com", 
@@ -43,3 +43,4 @@ Suggests:
     wesanderson
 VignetteBuilder: knitr
 biocViews: DataImport, Pathways, Reactome, Network, GraphAndNetwork
+PackageStatus: Deprecated
